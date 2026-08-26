@@ -59,17 +59,7 @@
   </a>
 </p>
 ---
-📊 GitHub Stats
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=urskeshavv&show_icons=true&hide_border=true&rank_icon=github" alt="Keshav's GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urskeshavv&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
-</div>
----
-🔥 Contribution Streak
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=urskeshavv&hide_border=true" alt="GitHub Streak" />
-</div>
----
+
 📌 Currently Learning
 ```text
 Machine Learning
